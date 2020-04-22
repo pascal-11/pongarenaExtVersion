@@ -1,0 +1,7 @@
+Zur letzten Version wurde folgende Dinge geändert:
+
+- Verwenden eines Konstruktors zur Erstellung von Objekten
+
+- Steuerung beider Spieler möglich (W/S und UP/DOWN)
+
+- Verwendung von css zur Einfärbung des Hintergrundes

@@ -1,0 +1,77 @@
+body{
+	background-image: url("Bilder/Background.png")	;
+	
+}
+
+p {
+	color: white;
+}
+
+a{
+	text-align: center;
+	color: white;
+}
+
+#Wrapper {
+
+	width: 960px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;	
+	font-size: 16px;
+	font-family: arial, sans-serif;
+	
+	
+	
+}
+
+	
+Ueberschrift p{	
+	
+	padding-bottom: 50px;
+	height: 10px;
+	font-size: 90px;
+	color: white;
+	text-align: center;
+	
+}
+
+
+Spiel {
+
+	width: 600px;
+	height: 500px;
+	float: left;	
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+	background-color: black;
+	border-radius: 20px;
+}
+
+Regelwerk{
+	width:310px;
+	height:500px;
+	float: right;
+	margin-top: 10px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	background-color: black;
+	border: 1px solid black;
+	border-radius: 20px;
+}
+
+	
+
+ol {
+	color: white;
+}
+
+button{
+	font-size: 50px;
+	background-color: grey;
+	color: white;
+	position: center;
+}
+
+	
